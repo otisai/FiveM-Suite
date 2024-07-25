@@ -27,7 +27,7 @@ Citizen.CreateThread(function()
                     local playerId = GetPlayerServerId(player) -- Get the player's server ID
                     local playerName = GetPlayerName(player) -- Get the player's name
 
-                    DrawText3D(playerCoords.x, playerCoords.y, playerCoords.z + 1.05, ('ID %s | %s'):format(playerId, playerName))
+                    DrawText3D(playerCoords.x, playerCoords.y, playerCoords.z + 1.05, ('[%s] %s'):format(playerId, playerName))
                 end
             end
         end
