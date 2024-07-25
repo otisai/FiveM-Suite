@@ -34,8 +34,7 @@ Citizen.CreateThread(function()
     end
 end)
 
--- @HELPER
--- Displays text in a 3D space.
+-- @HELPER - Displays text in a 3D space.
 -- @param x - The X coordinate
 -- @param y - The Y coordinate.
 -- @param z - The Z coordinate.
