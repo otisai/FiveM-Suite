@@ -1,3 +1,4 @@
+
 # 🌟 Otis' FiveM Suite
 
 I've been taking a hiatus from AI development and have been spending time developing MLOs, clothing, and most importantly, scripts for FiveM servers.
@@ -10,6 +11,10 @@ All of the scripts, plugins, and other resources in this repository are **free t
 
 ``otis-ids`` - Added 07/24/2024 | Display player names and IDs above their heads (client-side) for a configured amount of time. ``/ids``
 
+## Installation
+
+Everything inside of this repository will be uploaded completely ready to go; simply drop the "otis-SCRIPT" folder inside of your resources folder, add ``ensure otis-SCRIPT`` to your server.cfg, and you're ready to rock.
+
 ## Contributing
 
 As always, contributions are encouraged and welcomed. If you want a feature implemented and it has not yet been made, feel free to take a crack at it and make a PR when you are finished!
@@ -20,4 +25,3 @@ PRs are open, however anything regarding tiny, non-breaking fixes such as gramma
 - Discord: ``otisai``
 - Email: [otis@otisai.dev](mailto:otis@otisai.dev)
 If you shoot me an email and I don't respond, please let me know through Discord!
-
